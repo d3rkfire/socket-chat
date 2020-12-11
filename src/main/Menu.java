@@ -59,7 +59,7 @@ public class Menu {
 		lblName.setBounds(10, 14, 46, 14);
 		frame.getContentPane().add(lblName);
 		
-		txtName = new JTextField("Sebille");
+		txtName = new JTextField("User A");
 		txtName.setBounds(66, 11, 100, 20);
 		frame.getContentPane().add(txtName);
 		txtName.setColumns(10);
